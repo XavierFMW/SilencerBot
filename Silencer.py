@@ -4,7 +4,7 @@ from discord.utils import get
 import random
 import time
 
-bot_token = "NzY1MjIyMzgwNTYwOTczODQ2.X4Rq4A.qYjcrysfMVuKXIY9OsqJnq17PYU"
+bot_token = "<insert_token_here>"
 
 words = []
 client = commands.Bot(command_prefix="!")
